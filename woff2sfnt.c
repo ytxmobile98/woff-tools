@@ -73,7 +73,7 @@ usage(const char * progName)
                   , progName);
 }
 
-const uint8_t *
+static const uint8_t *
 readFile(const char * name, uint32_t * len)
 {
   FILE * inFile = fopen(name, "rb");
