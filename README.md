@@ -1,2 +1,1 @@
-# woff-tools
-WOFF tools (&lt;https://launchpad.net/ubuntu/+source/woff-tools>)
+# [WOFF tools](https://launchpad.net/ubuntu/+source/woff-tools)
